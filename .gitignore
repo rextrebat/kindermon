@@ -1,0 +1,5 @@
+/cloned
+*.log
+*.pyc
+kindermon.conf
+/__pycache__/
